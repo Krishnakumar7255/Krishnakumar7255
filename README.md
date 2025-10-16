@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnakumar7255&label=Profile%20views&color=0e75b6&style=flat" alt="krishnakumar7255" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnakumar7255" alt="krishnakumar7255" /></a> 
-[![An image of @krishnakumar7255's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/krishnakumar7255)](https://holopin.io/@krishnakumar7255)
+<br>
+  Click here to see: 
+  <a href="https://holopin.me/krishnakumar7255">Badges of my hacktoberfest2025</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
